@@ -1,0 +1,3 @@
+setuptools
+sklearn>=1
+matplotlib
